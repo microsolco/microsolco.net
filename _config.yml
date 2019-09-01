@@ -22,6 +22,9 @@ social:
 # -----
 # Build
 
+
+theme: jekyll-theme-basically-basic
+
 timezone: Etc/UTC
 
 permalink: pretty
