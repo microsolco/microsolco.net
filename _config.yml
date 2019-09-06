@@ -119,7 +119,7 @@ paginate:     4
 sass:
   style: compressed
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
