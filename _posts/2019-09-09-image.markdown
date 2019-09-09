@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Imaage"
-date:   2019-09-09 00:00:30 +0000
-categories:  
+title: Image
+date: 2019-09-09 00:00:00
+categories:
 ---
 
 {% include CreativeCloud.html id="77026f099b62426e86604e01c0c8602e" %}
