@@ -1,4 +1,10 @@
 theme: jekyll-theme-minimal
+<<<<<<< HEAD
 title: microsolco
 description: 33 giri e un terzo al minuto
 logo: https://raw.githubusercontent.com/microsolco/microsolco.net/gh-pages/lp.png
+=======
+title: [_lp_]
+description: microsolco
+logo: https://github.com/microsolco/microsolco.net/blob/gh-pages/lp.png
+>>>>>>> parent of dafab70... new title
