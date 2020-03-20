@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background-color: #fff;
+    color:#727272;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color:#222;
+  }
+  
+  
+  h2 {
+    color:#393939;
+  }
+  
+  h3, h4, h5, h6 {
+    color:#494949;
+  }
+  
+  a {
+    color:#333;
+  }
+  
+  a:hover, a:focus {
+    color:#444;
+  }
