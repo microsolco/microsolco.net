@@ -1,4 +1,12 @@
 remote_theme: samarsault/plainwhite-jekyll
-title: microsolco
-description: 33 giri e 1/3 al minuto
 logo: https://raw.githubusercontent.com/microsolco/microsolco.net/gh-pages/lp.png
+
+
+plainwhite:
+  name: Microsolco
+  tagline: 33 giri e 1/3 al minuto
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: microsolco
+    github: microsolco
