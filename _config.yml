@@ -11,9 +11,14 @@ plainwhite:
   #dark_mode: true
 
   condensed_mobile:
-    - home
+    #- home
     - page
     - post
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: posts
+      url: "/posts"    
   social_links:
     #twitter: microsolco
     github: microsolco
