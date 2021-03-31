@@ -8,6 +8,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   portfolio_image:      "lp.png"
   portfolio_image_dark: "lp.png"
+  html_lang: "it"
   #dark_mode: true
 
   condensed_mobile:
@@ -18,7 +19,5 @@ plainwhite:
     - title: Privacy Policy
       url: "/privacy"  
   social_links:
-    #twitter: microsolco
-    github: microsolco
-
+    email: me@microsolco.net
 
