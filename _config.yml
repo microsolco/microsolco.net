@@ -15,10 +15,8 @@ plainwhite:
     - page
     - post
   navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: posts
-      url: "/posts"    
+    - title: Privacy Policy
+      url: "/privacy"  
   social_links:
     #twitter: microsolco
     github: microsolco

@@ -1,0 +1,1 @@
+Only flat files (no cookies are used).
