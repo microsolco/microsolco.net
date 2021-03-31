@@ -10,8 +10,12 @@ plainwhite:
   portfolio_image_dark: "lp.png"
   dark_mode: true
 
+  condensed_mobile:
+    - home
+    - page
+    - post
   social_links:
-    twitter: microsolco
+    #twitter: microsolco
     github: microsolco
 
 
